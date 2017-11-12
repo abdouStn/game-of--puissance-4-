@@ -22,5 +22,5 @@ Clementine NEBUT (LIRMM - Laboratoire d’Informatique, de Robotique et de Micro
 Abdelhak SERIAI (LIRMM - Laboratoire d’Informatique, de Robotique et de Microélectronique de Montpellier)
 
 ### DATE
-decembre 2015
+decembre 2014
 

@@ -1,4 +1,4 @@
-# multi-threaded-client-server-ftp-application
+# game of 'puissance-4'
 A graphical role-playing application in java. See instructions in specs.pdf
 
 It's group work that falls within the course named "HLIN505 - Modélisation et programmation par objet 2", taught under Licence 3 at the Faculty of Science of the University of Montpellier. 
